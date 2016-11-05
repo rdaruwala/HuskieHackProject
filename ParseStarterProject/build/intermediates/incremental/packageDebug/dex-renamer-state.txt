@@ -1,0 +1,7 @@
+#Sat Nov 05 17:05:34 CDT 2016
+base.0=/Users/rohandaruwala/Desktop/HuskieHack2016/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f9ce295d3c70b4e24bbefaab1a1978fa53090846
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/rohandaruwala/Desktop/HuskieHack2016/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4d77c43f2ebaca2a5c1432c29178289d6a1cc45f/classes.dex
+base.1=/Users/rohandaruwala/Desktop/HuskieHack2016/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4d77c43f2ebaca2a5c1432c29178289d6a1cc45f
+file.0=/Users/rohandaruwala/Desktop/HuskieHack2016/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f9ce295d3c70b4e24bbefaab1a1978fa53090846/classes.dex
