@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/Users/rohandaruwala/Desktop/HuskieHack2016/ParseStarterProject/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi/abc_ic_ab_back_mtrl_am_alpha.png",
-        "source": "/Users/rohandaruwala/Desktop/HuskieHack2016/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-ldrtl-mdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+        "merged": "/home/hawkman561/android-studio/Projects/HuskieHackProject/HuskieHackProject/ParseStarterProject/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/home/hawkman561/android-studio/Projects/HuskieHackProject/HuskieHackProject/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-ldrtl-mdpi/abc_ic_ab_back_mtrl_am_alpha.png"
     },
     {
-        "merged": "/Users/rohandaruwala/Desktop/HuskieHack2016/ParseStarterProject/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi/abc_spinner_mtrl_am_alpha.9.png",
-        "source": "/Users/rohandaruwala/Desktop/HuskieHack2016/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-ldrtl-mdpi/abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "/home/hawkman561/android-studio/Projects/HuskieHackProject/HuskieHackProject/ParseStarterProject/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/hawkman561/android-studio/Projects/HuskieHackProject/HuskieHackProject/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-ldrtl-mdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "/Users/rohandaruwala/Desktop/HuskieHack2016/ParseStarterProject/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi/abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "/Users/rohandaruwala/Desktop/HuskieHack2016/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-ldrtl-mdpi/abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "/home/hawkman561/android-studio/Projects/HuskieHackProject/HuskieHackProject/ParseStarterProject/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/hawkman561/android-studio/Projects/HuskieHackProject/HuskieHackProject/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-ldrtl-mdpi/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "/Users/rohandaruwala/Desktop/HuskieHack2016/ParseStarterProject/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi/abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "/Users/rohandaruwala/Desktop/HuskieHack2016/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-ldrtl-mdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "/home/hawkman561/android-studio/Projects/HuskieHackProject/HuskieHackProject/ParseStarterProject/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/hawkman561/android-studio/Projects/HuskieHackProject/HuskieHackProject/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-ldrtl-mdpi/abc_ic_menu_cut_mtrl_alpha.png"
     }
 ]
